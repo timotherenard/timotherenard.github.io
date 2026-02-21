@@ -68,7 +68,7 @@ li a:hover:not(.active) {
 	width:70%;
 	height:100%;
 	padding: 0;
-	background-color:  #ffb373;
+	background-color:  #ad530a;
 	color: white;
 	position: fixed;
 }
@@ -106,7 +106,7 @@ li a:hover:not(.active) {
 
 h1 {
 	font-size: 450%;
-	color:#ff7000  ;
+	color:#ad530a  ;
 	font-family: Century Gothic;
 	font-weight: bold;
 	margin-top: 10px;
@@ -114,7 +114,7 @@ h1 {
 
 h2{
 	font-size: 300%;
-	color:  #ffa438  ;
+	color:  #ad530a  ;
 	font-family:Goudy Old Style;
 	font-weight: bold;
 	text-decoration: underline;
@@ -218,7 +218,7 @@ h3 .h3title{
 	display:block;
   grid-area: left-column;
   padding: 0;
-  background-color:  #ffb373;
+  background-color:  #ad530a;
   color: white;
   position: fixed;
   width:20%;
@@ -234,7 +234,7 @@ h3 .h3title{
 	display:block;
 	grid-area: middle-column ;
 	padding: 50px 70px;
-	background-color:#e5ffdb;
+	background-color:#cdffb9;
 }
 	
 	#burger-menu{
