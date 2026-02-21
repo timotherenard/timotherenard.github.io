@@ -16,7 +16,7 @@
   padding: 15px 0px;
   width: 100%;
   text-align:center;
-  background: #ffb373;
+  background: #ffb06f;
 }
 
 
@@ -68,7 +68,7 @@ li a:hover:not(.active) {
 	width:70%;
 	height:100%;
 	padding: 0;
-	background-color:  #ad530a;
+	background-color:  #ffb06f;
 	color: white;
 	position: fixed;
 }
@@ -84,7 +84,7 @@ li a:hover:not(.active) {
 
 
 .right-column{
-  background-color: #f3eeb9 ;
+  background-color: #fff7a1 ;
   display:none;
 }
 
@@ -106,7 +106,7 @@ li a:hover:not(.active) {
 
 h1 {
 	font-size: 450%;
-	color:#ad530a  ;
+	color:#ffb06f  ;
 	font-family: Century Gothic;
 	font-weight: bold;
 	margin-top: 10px;
@@ -114,7 +114,7 @@ h1 {
 
 h2{
 	font-size: 300%;
-	color:  #ad530a  ;
+	color:  #ffb06f  ;
 	font-family:Goudy Old Style;
 	font-weight: bold;
 	text-decoration: underline;
@@ -218,7 +218,7 @@ h3 .h3title{
 	display:block;
   grid-area: left-column;
   padding: 0;
-  background-color:  #ad530a;
+  background-color:  #ffb06f;
   color: white;
   position: fixed;
   width:20%;
